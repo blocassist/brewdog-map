@@ -54,10 +54,10 @@
     },
     "brewdog": {
       "type": "vector",
-      "url": "https://snodnipper.github.io/os-zoomstack-masterclass/data/brewdog/config.json"
+      "url": "https://bl.github.io/os-zoomstack-masterclass/data/brewdog/config.json"
     }
   },
-  "sprite": "https://snodnipper.github.io/os-zoomstack-masterclass/style/brewdog/sprites",
+  "sprite": "https://blocassist.github.io/os-zoomstack-masterclass/style/brewdog/sprites",
   "glyphs": "https://s3-eu-west-1.amazonaws.com/tiles.os.uk/v2/fonts/{fontstack}/{range}.pbf",
   "layers": [
     {
